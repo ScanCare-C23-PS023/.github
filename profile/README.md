@@ -1,4 +1,4 @@
-![Scancare Logo](../Landscape.png)
+![Scancare Logo](Landscape.png)
 
 About Scancare
 ---
